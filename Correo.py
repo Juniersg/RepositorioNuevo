@@ -1,2 +1,3 @@
-print("Estoy agregando un mensajes")
+a=input("Favor ingrese su nombre")
+print("bienvenido",a)
 
