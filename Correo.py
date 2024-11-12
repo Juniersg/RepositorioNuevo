@@ -1,3 +1,2 @@
-a=input("Favor ingrese su nombre")
-print("bienvenido",a)
+import  pandas as pd
 
